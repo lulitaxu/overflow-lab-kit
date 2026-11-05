@@ -1,0 +1,15 @@
+# Compiled lab binaries - build them locally with: make -C labs
+labs/vuln1
+labs/vuln2
+labs/vuln3
+labs/vuln1_32
+labs/vuln2_32
+labs/vuln3_32
+
+# Build artifacts
+*.o
+core
+
+# Scratch / output
+out/
+__pycache__/
